@@ -1,5 +1,6 @@
 //Editorial: https://youtu.be/K5pcpkEMCN0
-//  This problem has a pre-requisite problem that must be solved and it is present in LeetCode. The solution of that problem is available on my LeetCode repository.
+//  This problem has a pre-requisite problem that must be solved and it is present in LeetCode(Implement Trie (Prefix Tree)). 
+//The solution of that problem is available on my LeetCode repository.
 struct Node{
     Node* links[26];
 //     bool flag=false;
